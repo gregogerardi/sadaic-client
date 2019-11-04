@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sadaic-client/precache-manifest.41964dde4055359404f2d4eae0019083.js"
+  "/sadaic-client/precache-manifest.b7d9888665743974c2241d3cd595259e.js"
 );
 
 self.addEventListener('message', (event) => {
