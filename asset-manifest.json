@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sadaic-client/static/css/main.eab24d3c.chunk.css",
-    "main.js": "/sadaic-client/static/js/main.cc00d4fd.chunk.js",
-    "main.js.map": "/sadaic-client/static/js/main.cc00d4fd.chunk.js.map",
+    "main.js": "/sadaic-client/static/js/main.a04472d8.chunk.js",
+    "main.js.map": "/sadaic-client/static/js/main.a04472d8.chunk.js.map",
     "runtime-main.js": "/sadaic-client/static/js/runtime-main.e11c17e4.js",
     "runtime-main.js.map": "/sadaic-client/static/js/runtime-main.e11c17e4.js.map",
-    "static/js/2.a6092321.chunk.js": "/sadaic-client/static/js/2.a6092321.chunk.js",
-    "static/js/2.a6092321.chunk.js.map": "/sadaic-client/static/js/2.a6092321.chunk.js.map",
+    "static/js/2.3d98282c.chunk.js": "/sadaic-client/static/js/2.3d98282c.chunk.js",
+    "static/js/2.3d98282c.chunk.js.map": "/sadaic-client/static/js/2.3d98282c.chunk.js.map",
     "index.html": "/sadaic-client/index.html",
-    "precache-manifest.c8665e5fb06ea1f7ef90e5818a2646b9.js": "/sadaic-client/precache-manifest.c8665e5fb06ea1f7ef90e5818a2646b9.js",
+    "precache-manifest.41964dde4055359404f2d4eae0019083.js": "/sadaic-client/precache-manifest.41964dde4055359404f2d4eae0019083.js",
     "service-worker.js": "/sadaic-client/service-worker.js",
     "static/css/main.eab24d3c.chunk.css.map": "/sadaic-client/static/css/main.eab24d3c.chunk.css.map",
     "static/media/logo.svg": "/sadaic-client/static/media/logo.11b179c4.svg",
@@ -16,8 +16,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e11c17e4.js",
-    "static/js/2.a6092321.chunk.js",
+    "static/js/2.3d98282c.chunk.js",
     "static/css/main.eab24d3c.chunk.css",
-    "static/js/main.cc00d4fd.chunk.js"
+    "static/js/main.a04472d8.chunk.js"
   ]
 }

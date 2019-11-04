@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e30ac7737f8660d7853873686c172233",
+    "revision": "ffd919190caa37a08abf4d9430fbbb0a",
     "url": "/sadaic-client/index.html"
   },
   {
-    "revision": "030fd1946d3513991185",
+    "revision": "48ce144ee339d8f0aa9c",
     "url": "/sadaic-client/static/css/main.eab24d3c.chunk.css"
   },
   {
-    "revision": "da0d413f7fb64ae0781c",
-    "url": "/sadaic-client/static/js/2.a6092321.chunk.js"
+    "revision": "2023a8d0cf47eb8d077a",
+    "url": "/sadaic-client/static/js/2.3d98282c.chunk.js"
   },
   {
-    "revision": "030fd1946d3513991185",
-    "url": "/sadaic-client/static/js/main.cc00d4fd.chunk.js"
+    "revision": "48ce144ee339d8f0aa9c",
+    "url": "/sadaic-client/static/js/main.a04472d8.chunk.js"
   },
   {
     "revision": "fb282b0d35c27489841f",
